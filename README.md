@@ -21,25 +21,11 @@ API: PokéAPI para obter informações e imagens de Pokémon.
 Como Rodar o Projeto Localmente
 Clone o repositório para sua máquina:
 
-bash
-Copiar código
-git clone https://github.com/seu-usuario/seu-repositorio.git
-Navegue até o diretório do projeto:
-
-bash
-Copiar código
-cd seu-repositorio
-Abra o arquivo index.html em seu navegador preferido:
-
-bash
-Copiar código
-open index.html  # Para MacOS
-start index.html  # Para Windows
-xdg-open index.html  # Para Linux
 Funcionalidades Futuras
 Adicionar mais interações com o jogo, como mais tipos de dicas.
 Adicionar uma opção para o usuário personalizar o nível de dificuldade.
 Criar um sistema de login e salvar o progresso do jogador.
+
 Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
